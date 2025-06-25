@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkatasai
 - 👀 I’m interested in ...learning new technologies
-- 🌱 I’m currently learning ...#Javafullstack
+- 🌱 I learned ...#Javafullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prasannareddy0908@gmail.com
 
